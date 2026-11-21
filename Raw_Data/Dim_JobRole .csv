@@ -1,0 +1,14 @@
+﻿JobRoleID,JobRole,Job_Level,Salary_Range_Min,Salary_Range_Max
+1,Analytics Manager,Manager,270000,431000
+2,Data Scientist,Mid,44000,75000
+3,Engineering Manager,Manager,219000,356000
+4,HR Business Partner,Mid,267000,365000
+5,HR Executive,Mid,73000,124000
+6,HR Manager,Manager,347000,575000
+7,Machine Learning Engineer,Mid,99000,170000
+8,Manager,Manager,225000,392000
+9,Recruiter,Junior,30000,48000
+10,Sales Executive,Mid,86000,155000
+11,Sales Representative,Junior,32000,52000
+12,Senior Software Engineer,Senior,89000,154000
+13,Software Engineer,Junior,44000,67000
